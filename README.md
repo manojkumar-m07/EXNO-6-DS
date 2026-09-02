@@ -43,6 +43,30 @@ STEP 5:Include Necessary parameters in each functions.
 
 <img width="1829" height="635" alt="image" src="https://github.com/user-attachments/assets/dd74b43d-1d17-48ae-bb00-278e951ce80a" />
 
+<img width="1824" height="636" alt="image" src="https://github.com/user-attachments/assets/dab18b66-543d-442d-aa85-d7c1ac42f9fe" />
+
+<img width="1833" height="630" alt="image" src="https://github.com/user-attachments/assets/6514cc51-f759-483d-b79c-32a3a5ad6e8b" />
+
+<img width="1831" height="626" alt="image" src="https://github.com/user-attachments/assets/9e88f84b-a53f-4153-bc5d-8c1abbfc2dc5" />
+
+<img width="1834" height="643" alt="image" src="https://github.com/user-attachments/assets/3d7d3a14-1022-497a-9e56-f0bbd6db3531" />
+
+<img width="1831" height="328" alt="image" src="https://github.com/user-attachments/assets/11794ffe-f9d0-4810-b6bc-957c307a28ef" />
+
+<img width="1810" height="547" alt="image" src="https://github.com/user-attachments/assets/04f5eb5f-705b-46b1-82c8-8ce8cf008a82" />
+
+<img width="1802" height="783" alt="image" src="https://github.com/user-attachments/assets/f7ac94a0-5b19-48d0-8199-4b76ea067131" />
+
+<img width="1823" height="795" alt="image" src="https://github.com/user-attachments/assets/d134e54d-27ba-48a7-81b4-86e2de6a7f53" />
+
+<img width="1813" height="719" alt="image" src="https://github.com/user-attachments/assets/4581eff8-aa53-4234-8aa3-5964b61940e2" />
+
+<img width="1820" height="673" alt="image" src="https://github.com/user-attachments/assets/8c83333e-aef7-4beb-b0b6-ad419bfabce4" />
+
+<img width="1808" height="630" alt="image" src="https://github.com/user-attachments/assets/f084b339-e580-4066-b5c0-292e20fb4c48" />
+
+<img width="1803" height="637" alt="image" src="https://github.com/user-attachments/assets/63b5d52b-8842-4888-ae87-8467dca60c09" />
+
 
 
 
