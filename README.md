@@ -67,9 +67,9 @@ STEP 5:Include Necessary parameters in each functions.
 
 <img width="1803" height="637" alt="image" src="https://github.com/user-attachments/assets/63b5d52b-8842-4888-ae87-8467dca60c09" />
 
+<img width="1814" height="590" alt="image" src="https://github.com/user-attachments/assets/7f3fd45b-497f-4257-95ac-7f759d3e9954" />
 
-
-
+<img width="1829" height="465" alt="image" src="https://github.com/user-attachments/assets/8cb99848-2126-4be0-99ce-2344c3a20088" />
 
 # Result:
- Include your result here
+Hence we performed Data Visualization using seaborn python library for the given data.
